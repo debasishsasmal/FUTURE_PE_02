@@ -16,8 +16,8 @@ This repository documents **Task 2**, which required building a fully functional
     * AI-written copy for "About" and "Skills" sections.
 
 ### 📸 Project Screenshot
-![Portfolio Preview](<img width="1279" height="883" alt="image" src="https://github.com/user-attachments/assets/bb5c99a7-1dd8-40ec-9f96-fd1d14262da8" />
-)
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/98326445-e796-4520-af1f-fe596d036895" />
+
 
 ---
 *Submitted by Debasish Sasmal*
